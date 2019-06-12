@@ -1,0 +1,119 @@
+/* energy */
+.comps{
+	width: 80%;
+	margin: 10upx 10%;
+}
+.cdate{
+	text-align: center;
+	font-size: 30upx;
+}
+.total{
+	text-align: center;
+	margin-top: 20upx;
+}
+.total .left{
+	display: inline-block;
+	width: 370upx;
+	font-size: 90upx;
+	font-weight: bold;
+	padding-left: 10%;
+}
+.total .right{
+	display: inline-block;
+	width: 100upx;
+	font-size: 30upx;
+	text-align: center;
+}
+.type{
+	text-align: center;
+	margin-top: 40upx;
+	margin-bottom: 40upx;
+}
+.type image{
+	width: 70upx;
+	height: 70upx;
+}
+.type .left,.type .middle,.type .right{
+	display: inline-block;
+	width: 200upx;
+	font-size: 30upx;
+	font-weight: bold;
+	color: black;
+}
+.buttons{
+	text-align: center;
+}
+.day{
+	width: 150upx;
+	height: 60upx;
+	font-size: 30upx;
+	display: inline-block;
+	line-height: 60upx;
+	color: white;
+	border-radius: 30upx 0 0 30upx;
+	z-index: 3;
+}
+.month{
+	width: 150upx;
+	height: 60upx;
+	font-size: 30upx;
+	display: inline-block;
+	line-height: 60upx;
+	color: white;
+	border-radius: 0 30upx 30upx 0;
+	z-index: 3;
+}
+/* produce */
+.produce{
+	text-align: center;
+}
+.circle{
+	display: inline-block;
+	width: 300upx;
+	height: 300upx;
+	line-height: 60upx;
+	border-radius: 50%;
+	border:45upx solid #1296db;
+	margin: 40upx auto 0 auto;
+	padding: 40upx;
+}
+.font1{
+	color: #09BB07;
+	font-size: 70upx;
+	font-weight: bold;
+}
+.font2{
+	color: darkorange;
+	font-size: 70upx;
+	font-weight: bold;
+}
+label{
+	font-size: 30upx;
+}
+.label{
+	font-size: 50upx;
+}
+.text1{
+	font-size: 38upx;
+	margin-left: 25upx;
+}
+.text2{
+	font-size: 30upx;
+	font-weight: bold;
+	margin: 10upx 30upx;
+	display: inline-block;
+	vertical-align: top;
+}
+.text3{
+	width: 40upx;
+	height: 40upx;
+	display: inline-block;
+	float: right;
+	margin-right: 40upx;
+}
+.text3 image{
+	width: 70upx;
+	height: 70upx;
+	position: relative;
+	top: -10upx;
+}

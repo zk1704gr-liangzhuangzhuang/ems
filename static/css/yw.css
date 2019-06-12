@@ -1,0 +1,26 @@
+page{
+	font-size: 30upx;
+}
+/* Acquisition */
+.top{
+	width: 100%;
+	height: 150upx;
+	padding: 30upx 0 0 30upx;
+	background: #EEE9E9;
+}
+.AcqBtn{
+	width: 200upx;
+	font-size: 30upx;
+	height: 80upx;
+	line-height: 80upx;
+}
+.zhuyi{
+	width: 50%;
+	height: 100%;
+	display: inline-block;
+	color: orangered;
+}
+.btn{
+	width: 50%;
+	display: inline-block;
+}
